@@ -1,0 +1,6 @@
+myfunction()
+{
+	
+	test function only;
+	
+}
